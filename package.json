@@ -1,0 +1,25 @@
+{
+  "name": "node-with-travis",
+  "version": "1.0.0",
+  "description": "Experimenting the practise of continuous integration using travis CI",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mogbeyi-david/node-with-travis.git"
+  },
+  "keywords": [
+    "travis",
+    "node",
+    "express",
+    "continuous-integration"
+  ],
+  "author": "David Mogbeyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mogbeyi-david/node-with-travis/issues"
+  },
+  "homepage": "https://github.com/mogbeyi-david/node-with-travis#readme"
+}
