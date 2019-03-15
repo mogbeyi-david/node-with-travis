@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/mogbeyi-david/node-with-travis/issues"
   },
-  "homepage": "https://github.com/mogbeyi-david/node-with-travis#readme"
+  "homepage": "https://github.com/mogbeyi-david/node-with-travis#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "express": "^4.16.4",
+    "mocha": "^6.0.2"
+  }
 }
