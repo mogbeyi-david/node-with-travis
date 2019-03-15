@@ -4,6 +4,7 @@
   "description": "Experimenting the practise of continuous integration using travis CI",
   "main": "index.js",
   "scripts": {
+    "start": "node app.js",
     "test": "mocha"
   },
   "repository": {
